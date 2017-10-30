@@ -9,6 +9,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LogicFindNextBiggerNumber",
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LogicFindNthRoot", "LogicFindNthRoot\LogicFindNthRoot.csproj", "{518E671B-884B-4639-A7CE-A4A67370CE93}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LogicInsertNumber", "LogicInsertNumber\LogicInsertNumber.csproj", "{8A1E1A4C-58C6-408C-815C-0D359A4D64A1}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -27,6 +29,10 @@ Global
 		{518E671B-884B-4639-A7CE-A4A67370CE93}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{518E671B-884B-4639-A7CE-A4A67370CE93}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{518E671B-884B-4639-A7CE-A4A67370CE93}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8A1E1A4C-58C6-408C-815C-0D359A4D64A1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8A1E1A4C-58C6-408C-815C-0D359A4D64A1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8A1E1A4C-58C6-408C-815C-0D359A4D64A1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8A1E1A4C-58C6-408C-815C-0D359A4D64A1}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
